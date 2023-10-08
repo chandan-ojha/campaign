@@ -105,6 +105,7 @@ if (empty($categories)) {
             </div>
             <div class="brand-text">
               <span>${brand.name}</span>
+              <p>${brand.offer}</p>
             </div>
           `;
             brandContainer.appendChild(brandCard);
