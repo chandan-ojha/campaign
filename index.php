@@ -32,14 +32,17 @@ if (empty($categories)) {
             &times;
         </span>
         <div>
+            <div class="hero-image" >
+                <img src="./images/banner/banner.png" alt="" class="img-fluid" />
+            </div>
             <div>
                 <div class="cat-container" id="catContainer">
                     <?php
                     foreach ($categories as $category) {
-                        echo '<a class="cat-card" onclick="showBrands(\'' . $category['id'] . '\')">';
-                        echo '<img src="' . $category['image'] . '" alt="" class="img-fluid" />';
+                        echo '<a class="cat-card" onclick="showBrands(\'' . $category['id'] . '\')" id="cat' . $category['id'] . '">';
+                        echo '<img src="' . $category['image'] . '" alt="" />';
                         echo '<div class="cat-text">';
-                        echo '<span id="active">' . $category['name'] . '</span>';
+                        echo '<span >' . $category['name'] . '</span>';
                         echo '</div>';
                         echo '</a>';
                     }
@@ -86,30 +89,46 @@ if (empty($categories)) {
         const brandContainer = document.getElementById("brandContainer");
         brandContainer.innerHTML = "";
         const selected_cat = categories.find((car) => car.id == (cat_id || categories[0].id));
-        const activeCat = document.getElementById("active");
-
-        //if cat selected then add active class 
-        if (selected_cat.id ) {
-             activeCat.classList.add("active");
-           } else {
-             activeCat.classList.remove("active");
-        }
+        setActiveClass("cat" + selected_cat.id)
         const brands = selected_cat.brands;
         brands.forEach((brand) => {
             
             const brandCard = document.createElement("div");
+            
             brandCard.classList.add("brand-card");
             brandCard.innerHTML = `
-            <div class="img-holder">
-              <img src="${brand.image}" alt="" class="img-fluid" />
-            </div>
-            <div class="brand-text">
-              <span>${brand.name}</span>
-              <p>${brand.offer}</p>
+            
+              <img src="${brand.image}" alt="" />
+              <div class="card-body">
+              <div class="title-back">
+              <h5 class="card-title">${brand.name}</h5>
+              </div>
+              <p class="card-text">${brand.offer}</p>
+              </div>
             </div>
           `;
             brandContainer.appendChild(brandCard);
         });
+    }
+
+    function setActiveClass(docId){
+        // Get all elements with the class 'active'
+        var activeElements = document.querySelectorAll('.active');
+
+        // Loop through the NodeList of active elements and remove the 'active' class
+        activeElements.forEach(function(element) {
+        element.classList.remove('active');
+        });
+
+        const catLink = document.getElementById(docId);
+        var spanElement = catLink.querySelector('span');
+
+        if (spanElement.classList.contains('active')) {
+        spanElement.classList.remove('active');
+        } else {
+        spanElement.classList.add('active');
+        }
+
     }
 
     window.addEventListener('load', function () {
