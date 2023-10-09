@@ -99,7 +99,6 @@ if (empty($categories)) {
             const brandCard = document.createElement("div");
             
             brandCard.classList.add("brand-card");
-            console.log(selected_cat)
             if(selected_cat.id==5 || selected_cat.id==6 ) brandCard.style.minHeight = "365px";
             brandCard.innerHTML = `
             
