@@ -18,18 +18,6 @@
           "image": "./images/test-1/frame_1_img_29.png"
         },
         {
-          "id": 3,
-          "name": "Bata",
-          "offer": "* 20% Cashback up to BDT 1000 on all products (Only Credit Cards)",
-          "image": "./images/test-1/frame_1_img_3.png"
-        },
-        {
-          "id": 4,
-          "name": "Le Reve",
-          "offer": "* 20% Cashback up to BDT 1000 on all products (Only Credit Cards)",
-          "image": "./images/test-1/frame_1_img_4.png"
-        },
-        {
           "id": 5,
           "name": "Sailor",
           "offer": "* 20% Cashback up to BDT 1000 on all products (Only Credit Cards)",
@@ -123,7 +111,7 @@
           "id": 20,
           "name": "Khazana Sharee",
           "offer": "* 20% Savings on all products",
-          "image": "./images/test-1/frame_1_img_20.png"
+          "image": "./images/test-1/frame_1_img_31.png"
         },
         {
           "id": 21,
@@ -138,22 +126,10 @@
           "image": "./images/test-1/frame_1_img_28.png"
         },
         {
-          "id": 23,
-          "name": "Mahjabin",
-          "offer": "* Up to 20% Savings on all products",
-          "image": "./images/test-1/frame_1_img_23.png"
-        },
-        {
           "id": 24,
           "name": "Menz Klub",
           "offer": "* 10% Savings on all products",
           "image": "./images/test-1/frame_1_img_13.png"
-        },
-        {
-          "id": 25,
-          "name": "Nabila",
-          "offer": "* 10% Savings on all products",
-          "image": "./images/test-1/frame_1_img_25.png"
         },
         {
           "id": 26,
@@ -189,7 +165,7 @@
           "id": 31,
           "name": "SA World",
           "offer": "* 10% Savings on all products except cosmetics & jewelries",
-          "image": "./images/test-1/frame_1_img_31.png"
+          "image": "./images/test-1/frame_1_img_33.png"
         },
         {
           "id": 32,
@@ -285,7 +261,7 @@
         },
         {
           "id": 11,
-          "name": "Sreeja Gold Palace (Pvt) Ltd. ",
+          "name": "Sreeja Gold Palace ",
           "offer": "* 25% Savings on Diamond Jewellery & 35% Savings on Gold Making Charge",
           "image": "./images/test-2/frame_2_img_10.png"
         },
