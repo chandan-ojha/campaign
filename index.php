@@ -56,6 +56,9 @@ if (empty($categories)) {
 </div>
 
 <script>
+    
+
+
     document.addEventListener("DOMContentLoaded", function () {
         const modal = document.getElementById("myModal");
         const closeModalButton = document.getElementById("closeModal");
@@ -68,7 +71,7 @@ if (empty($categories)) {
             // Set a timeout to display the modal after 5-10 seconds (5000-10000 milliseconds)
             setTimeout(function () {
                 modal.style.display = "block";
-            }, 500);
+            }, 3000);
         }
 
         closeModalButton.addEventListener("click", function () {
@@ -103,7 +106,7 @@ if (empty($categories)) {
               <div class="title-back">
               <h5 class="card-title">${brand.name}</h5>
               </div>
-              <p class="card-text">${brand.offer}</p>
+              <p class="card-text" >${brand.offer}</p>
               </div>
             </div>
           `;

@@ -303,76 +303,59 @@
       "image": "./images/cat/cat_3.png",
       "brands": [
         {
-          "id": 1,
-          "name": "North End Coffee Roaters",
-          "offer": "* 25% Cashback up to BDT 600 on all products (Only Credit Cards)",
+          "id":2,
+          "name": "Bread & Beyond",
+          "offer": "* 10% Savings on entire food items above bdt 750/- minimum transactions",
           "image": "./images/test-3/frame_3_img_1.png"
         },
         {
-          "id": 2,
-          "name": "Gloria Jeans Coffee Bangladesh",
-          "offer": "* 25% Cashback up to BDT 600 on all products (Only Credit Cards)",
+          "id":4,
+          "name": "Century Sweets",
+          "offer": "* 10% Savings on regular price",
           "image": "./images/test-3/frame_3_img_2.png"
         },
         {
-          "id": 3,
-          "name": "Bread & Beyond",
-          "offer": "* 10% Savings on entire food items above bdt 750/- minimum transactions",
+          "id":3,
+          "name": "Coopers",
+          "offer": "* 10% Savings on regular price",
+          "image": "./images/test-3/frame_3_img_9.png"
+        },
+        
+        {
+          "id":5,
+          "name": "Khazana Mithai",
+          "offer": "* 10% Savings on all products",
           "image": "./images/test-3/frame_3_img_3.png"
         },
         {
-          "id": 4,
-          "name": "Coopers",
-          "offer": "* 10% Savings on regular price",
+          "id":6,
+          "name": "Kona Café",
+          "offer": "* 14% Savings on total bill. ",
           "image": "./images/test-3/frame_3_img_4.png"
         },
         {
-          "id": 5,
-          "name": "Century Sweets",
-          "offer": "* 10% Savings on regular price",
+          "id":8,
+          "name": "Manuel Café",
+          "offer": "* 10% Savings on all products except promotional products. ",
           "image": "./images/test-3/frame_3_img_5.png"
         },
         {
-          "id": 6,
-          "name": "Khazana Mithai",
-          "offer": "* 10% Savings on all products",
-          "image": "./images/test-3/frame_3_img_31.png"
-        },
-        {
-          "id": 7,
-          "name": "Kona Café",
-          "offer": "* 14% Savings on total bill. ",
-          "image": "./images/test-3/frame_3_img_7.png"
-        },
-        {
-          "id": 8,
-          "name": "King's Confectionery ",
-          "offer": null,
-          "image": "./images/test-3/frame_3_img_8.png"
-        },
-        {
           "id": 9,
-          "name": "Manuel Café",
-          "offer": "* 10% Savings on all products except promotional products. ",
-          "image": "./images/test-3/frame_3_img_9.png"
+          "name": "Nerdy Bean Coffee Haus",
+          "offer": "* 10% Savings on regular price",
+          "image": "./images/test-3/frame_3_img_6.png"
         },
         {
           "id": 10,
-          "name": "Nerdy Bean Coffee Haus",
+          "name": "Puro Pastry & Bakery",
           "offer": "* 10% Savings on regular price",
-          "image": "./images/test-3/frame_3_img_10.png"
+          "image": "./images/test-3/frame_3_img_7.png"
         },
         {
           "id": 11,
-          "name": "Puro Pastry & Bakery",
-          "offer": "* 10% Savings on regular price",
-          "image": "./images/test-3/frame_3_img_11.png"
-        },
-        {
-          "id": 12,
           "name": "Well Food",
           "offer": "* 10% Savings on selective items on Dhaka Outlets Only.",
-          "image": "./images/test-3/frame_3_img_12.png"
+          "image": "./images/test-3/frame_3_img_8.png"
         }
       ]
     },
@@ -392,13 +375,13 @@
           "id": 2,
           "name": "Bio-Xin Cosmeceuticals",
           "offer": "* 10% Savings on all products and treatments",
-          "image": "./images/test-4/frame_4_img_2.png"
+          "image": "./images/test-4/frame_4_img_11.png"
         },
         {
           "id": 3,
           "name": "Divine Beauty Lounge",
           "offer": "* 10% Savings on total bill. (Minimum Transaction Amount BDT 1500)",
-          "image": "./images/test-4/frame_4_img_3.png"
+          "image": "./images/test-4/frame_4_img_2.png"
         },
         {
           "id": 4,
@@ -446,7 +429,7 @@
           "id": 11,
           "name": "Dr. Jhumu Khan's Laser Medical Center Ltd",
           "offer": "* 10% Savings on Total Cost. ",
-          "image": "./images/test-4/frame_4_img_11.png"
+          "image": "./images/test-4/frame_4_img_3.png"
         }
       ]
     },
@@ -490,67 +473,67 @@
           "id": 2,
           "name": "Bhawal Resort & Spa",
           "offer": "* 10% Savings on Accomodation only on Weekdays: Sun-Wed except Public Holidays",
-          "image": "./images/test-6/frame_6_img_2.png"
+          "image": "./images/test-6/frame_6_img_32.png"
         },
         {
           "id": 3,
-          "name": "Brac Services Ltd. - BCDM Rajendrapur",
+          "name": "BCDM Rajendrapur",
           "offer": "* 20% Flat Savings on Rack Rate.",
-          "image": "./images/test-6/frame_6_img_3.png"
+          "image": "./images/test-6/frame_6_img_2.png"
         },
         {
           "id": 4,
-          "name": "Brac Services Ltd. - BCDM Savar",
+          "name": "BCDM Savar",
           "offer": "* 20% Flat Savings on Rack Rate.",
-          "image": "./images/test-6/frame_6_img_4.png"
+          "image": "./images/test-6/frame_6_img_3.png"
         },
         {
           "id": 5,
           "name": "Best Western Heritage Hotel & Resort",
           "offer": "* 45% Savings on Room Tariff.  (Peak Season)&amp;* 50% Savings on Room Tariff.  (Savings-Peak Season)",
-          "image": "./images/test-6/frame_6_img_5.png"
+          "image": "./images/test-6/frame_6_img_4.png"
         },
         {
           "id": 6,
           "name": "Chuti Resort Ltd.",
           "offer": "* 50% Savings on Room Tariff.  (Weekdays)&amp;* 25% Savings on Room Tariff.  (Weekends)",
-          "image": "./images/test-6/frame_6_img_6.png"
+          "image": "./images/test-6/frame_6_img_5.png"
         },
         {
           "id": 7,
           "name": "Cculb Resort & Convention Hall",
           "offer": "* 50% Savings on Rack Room Rate.",
-          "image": "./images/test-6/frame_6_img_7.png"
+          "image": "./images/test-6/frame_6_img_6.png"
         },
         {
           "id": 8,
           "name": "Dera Resort & Spa, Coxs Bazar",
           "offer": "* 50% Flat Savings for Accomodation (Peak Season)&amp;* 60% Flat Savings for Accomodation (Savings - Peak Season)",
-          "image": "./images/test-6/frame_6_img_8.png"
+          "image": "./images/test-6/frame_6_img_7.png"
         },
         {
           "id": 9,
           "name": "Dera Resort & Spa, Manikganj",
           "offer": "* 40% Flat Savings for Accomodation (Peak Season)&amp;* 50% Flat Savings for Accomodation (Savings - Peak Season)",
-          "image": "./images/test-6/frame_6_img_9.png"
+          "image": "./images/test-6/frame_6_img_8.png"
         },
         {
           "id": 10,
           "name": "Dream Square Resort",
           "offer": "* Up to 30% Savings on Room Rent (Round The Year)&amp;* Up to 40% Savings on Conference Hall (Round The Year)",
-          "image": "./images/test-6/frame_6_img_10.png"
+          "image": "./images/test-6/frame_6_img_9.png"
         },
         {
           "id": 11,
           "name": "Fortis Downtown Resort",
           "offer": "* 25% Savings on room rate (Weekdays)&amp;* 15% Savings on room rate (Weekend)",
-          "image": "./images/test-6/frame_6_img_11.png"
+          "image": "./images/test-6/frame_6_img_10.png"
         },
         {
           "id": 12,
           "name": "Grand Riverview Hotel",
           "offer": "* 40% Savings on Room Tariff (Peak Season)&amp;* 50% Savings on Room Tariff (Savings-Peak Season)",
-          "image": "./images/test-6/frame_6_img_12.png"
+          "image": "./images/test-6/frame_6_img_11.png"
         },
         {
           "id": 13,
@@ -559,64 +542,58 @@
           "image": "./images/test-6/frame_6_img_13.png"
         },
         {
-          "id": 14,
-          "name": "Hotel Prime Park",
-          "offer": "* Additional 5% Savings is applicable on existing promotional Savingser.",
-          "image": "./images/test-6/frame_6_img_14.png"
-        },
-        {
           "id": 15,
           "name": "Hotel Graver Inn International",
           "offer": "* Additional 10% Savings on top of the seasonal flat Savings.",
-          "image": "./images/test-6/frame_6_img_15.png"
+          "image": "./images/test-6/frame_6_img_12.png"
         },
         {
           "id": 16,
           "name": "Heritage Resort Ltd.",
           "offer": "* Up to 50% Savings on accomodation.",
-          "image": "./images/test-6/frame_6_img_16.png"
+          "image": "./images/test-6/frame_6_img_13.png"
         },
         {
           "id": 17,
           "name": "Hotel Sea Crown",
           "offer": "* 30% Savings on room rent in Peak Season (1st October - 31st March)&amp;* 50% Savings on room rent in Savings-Peak Season (1st April - 30th September)&amp;* 50% Savings on conference room in Peak Season (1st October - 31st March)&amp;* 50% Savings on conference room in Savings-Peak Season (1st April - 30th September)",
-          "image": "./images/test-6/frame_6_img_17.png"
+          "image": "./images/test-6/frame_6_img_14.png"
         },
         {
           "id": 18,
           "name": "Hotel Star Pacific",
           "offer": "* 50% Savings on Room Tariff inclusive VAT & Service Charge (BDT)",
-          "image": "./images/test-6/frame_6_img_18.png"
+          "image": "./images/test-6/frame_6_img_15.png"
         },
         {
           "id": 19,
           "name": "Hotel Kollol by J&Z Group",
           "offer": "* 45% Savings on Room Tariff.  (May to September 2023)&amp;* 30% Savings on Room Tariff.  (October 2023 to March 2024)",
-          "image": "./images/test-6/frame_6_img_19.png"
+          "image": "./images/test-6/frame_6_img_16.png"
         },
         {
           "id": 20,
           "name": "Hotel The Cox Today",
           "offer": "* 30% Savings on Room Tariff.  (Peak Season)&amp;* 50% Savings on Room Tariff.  (Savings-Peak Season)",
-          "image": "./images/test-6/frame_6_img_20.png"
+          "image": "./images/test-6/frame_6_img_17.png"
         },
         {
           "id": 21,
           "name": "Hotel D'More Bandarban",
           "offer": "* 30% Savings on Room Tariff.  (Peak Season)&amp;* 50% Savings on Room Tariff.  (Savings-Peak Season)",
-          "image": "./images/test-6/frame_6_img_21.png"
+          "image": "./images/test-6/frame_6_img_18.png"
         },
         {
           "id": 22,
           "name": "Long Beach Hotel Cox's Bazar",
           "offer": "* 40% Savings on Published Room Tariff.  (October to March)&amp;* 50% Savings on Published Room Tariff.  (April to September)",
-          "image": "./images/test-6/frame_6_img_22.png"
+          "image": "./images/test-6/frame_6_img_19.png"
         },
         {
           "id": 23,
           "name": "Mermaid Beach Resort",
           "offer": "* 40% Savings on Regular Room Tariff",
-          "image": "./images/test-6/frame_6_img_23.png"
+          "image": "./images/test-6/frame_6_img_20.png"
         },
         {
           "id": 24,
@@ -628,97 +605,85 @@
           "id": 25,
           "name": "Momo Inn",
           "offer": "* 40% Savings on Room Tariff exclusing VAT & Service Charge (BDT)",
-          "image": "./images/test-6/frame_6_img_25.png"
+          "image": "./images/test-6/frame_6_img_21.png"
         },
         {
           "id": 26,
           "name": "Novem Eco Ressort",
           "offer": "* 45% Savings on Room Tariff (Sunday to Wednesday)&amp;* 35% Savings on Room Tariff (Thursday to Saturday)",
-          "image": "./images/test-6/frame_6_img_26.png"
+          "image": "./images/test-6/frame_6_img_22.png"
         },
         {
           "id": 27,
           "name": "Nazimgarh Wilderness Resort",
           "offer": "* 40% Savings on Rack Room Rate.",
-          "image": "./images/test-6/frame_6_img_27.png"
+          "image": "./images/test-6/frame_6_img_23.png"
         },
         {
           "id": 28,
           "name": "Nazimgarh Garden Resort",
           "offer": "* 40% Savings on Rack Room Rate.",
-          "image": "./images/test-6/frame_6_img_28.png"
+          "image": "./images/test-6/frame_6_img_24.png"
         },
         {
           "id": 29,
           "name": "Nirvana Inn Hotel Complex",
           "offer": "* 45% Savings on Room Tariff&amp;* 5% Savings on Food",
-          "image": "./images/test-6/frame_6_img_29.png"
+          "image": "./images/test-6/frame_6_img_25.png"
         },
         {
           "id": 30,
           "name": "Praasad Paradise Hotel & Resorts",
           "offer": "* 30% Savings on Room Rent (Peak Season - 1st October - 31st March)&amp;* 50% Savings on Room Rent (Savings - Peak Season - 1st April - 30th September)",
-          "image": "./images/test-6/frame_6_img_30.png"
+          "image": "./images/test-6/frame_6_img_26.png"
         },
         {
           "id": 31,
           "name": "Ratnodweep Resort",
           "offer": "* 50% Savings on Room Tariff inclusive VAT & Service Charge (BDT)",
-          "image": "./images/test-6/frame_6_img_31.png"
+          "image": "./images/test-6/frame_6_img_27.png"
         },
         {
           "id": 32,
           "name": "Rupkotha Eco Resort",
           "offer": "* 40% Savings on Room Tariff inclusive VAT & Service Charge (BDT)",
-          "image": "./images/test-6/frame_6_img_32.png"
+          "image": "./images/test-6/frame_6_img_28.png"
         },
         {
           "id": 33,
           "name": "Sea Pearl Beach Resort & Spa Ltd.",
           "offer": "* 51% Savings on Accomodation",
-          "image": "./images/test-6/frame_6_img_33.png"
+          "image": "./images/test-6/frame_6_img_29.png"
         },
         {
           "id": 34,
           "name": "Sarah Resort Limited",
           "offer": "* 25% Savings on room rate (Weekdays)&amp;* 15% Savings on room rate (Weekend)",
-          "image": "./images/test-6/frame_6_img_34.png"
+          "image": "./images/test-6/frame_6_img_31.png"
         },
         {
           "id": 35,
           "name": "Shaira Garden Hotel & Resorts",
           "offer": "* Up to 45% Savings on accomodation.",
-          "image": "./images/test-6/frame_6_img_35.png"
-        },
-        {
-          "id": 36,
-          "name": "Sonargaon Royal Resort",
-          "offer": "* 30% Savings on Rack Room Rate.",
-          "image": "./images/test-6/frame_6_img_36.png"
+          "image": "./images/test-6/frame_6_img_30.png"
         },
         {
           "id": 37,
           "name": "Sikder Resort & Villas",
           "offer": "* 40% Savings on Room Tariff (Peak Season)&amp;* 50% Savings on Room Tariff (Savings-Peak Season)&amp;* 40% Savings on Banquet Hall",
-          "image": "./images/test-6/frame_6_img_37.png"
-        },
-        {
-          "id": 38,
-          "name": "Seagull Hotels Ltd.",
-          "offer": "* 35% Savings on Room Tariff.  (Weekends - Thursday to Saturday)&amp;* 40% Savings on Room Tariff.  (Weekdays- Sunday to Wednesday)",
-          "image": "./images/test-6/frame_6_img_38.png"
+          "image": "./images/test-6/frame_6_img_33.png"
         },
         {
           "id": 39,
           "name": "SKS Inn",
           "offer": "* 50% Savings on Room Tariff (Weekdays: Sunday to Wednesday)&amp;* 25% Savings on Room Tariff (Weekendss: Thursday to Saturday)",
-          "image": "./images/test-6/frame_6_img_39.png"
+          "image": "./images/test-6/frame_6_img_34.png"
         },
         {
           "id": 40,
           "name": "Water Garden Resort & Spa",
           "offer": "* 10% Savings on Accomodation &amp;* 5% Savings on Food",
-          "image": "./images/test-6/frame_6_img_40.png"
+          "image": "./images/test-6/frame_6_img_35.png"
         }
       ]
     },
@@ -735,7 +700,7 @@
         },
         {
           "id": 2,
-          "name": "bb.q Chicken",
+          "name": "Café Appeliano",
           "offer": "* 10% Savings on Food Menu",
           "image": "./images/test-7/frame_7_img_2.png"
         },
@@ -743,61 +708,55 @@
           "id": 3,
           "name": "Café Cherry Drops",
           "offer": "* 10% Savings on Food Menu",
-          "image": "./images/test-7/frame_7_img_3.png"
-        },
-        {
-          "id": 4,
-          "name": "Café Appeliano",
-          "offer": "* 30% Savings on Combo Meal&amp;* 15% Savings on total bill of BDT 2000&amp;* 10% Savings on total bill of BDT 1000",
-          "image": "./images/test-7/frame_7_img_4.png"
+          "image": "./images/test-7/frame_7_img_12.png"
         },
         {
           "id": 5,
           "name": "Flambe Restaurant",
           "offer": "* 10% Savings on total bill. ",
-          "image": "./images/test-7/frame_7_img_5.png"
+          "image": "./images/test-7/frame_7_img_3.png"
         },
         {
           "id": 6,
           "name": "Montana Lounge",
           "offer": "* 10% Savings on total bill. ",
-          "image": "./images/test-7/frame_7_img_6.png"
+          "image": "./images/test-7/frame_7_img_4.png"
         },
         {
           "id": 7,
           "name": "Panda Dumplings",
           "offer": "* 10% Savings on Food Menu",
-          "image": "./images/test-7/frame_7_img_7.png"
+          "image": "./images/test-7/frame_7_img_5.png"
         },
         {
           "id": 8,
           "name": "Royal Buffet",
           "offer": "* 10% Savings on regular price.",
-          "image": "./images/test-7/frame_7_img_8.png"
+          "image": "./images/test-7/frame_7_img_6.png"
         },
         {
           "id": 9,
           "name": "Sushi Yaki",
           "offer": "* 5% Savings on total bill.",
-          "image": "./images/test-7/frame_7_img_9.png"
+          "image": "./images/test-7/frame_7_img_7.png"
         },
         {
           "id": 10,
           "name": "Taj Kitchen",
           "offer": "* 10% Savings on total bill.",
-          "image": "./images/test-7/frame_7_img_10.png"
+          "image": "./images/test-7/frame_7_img_8.png"
         },
         {
           "id": 11,
           "name": "The Nest",
           "offer": "* 15% Savings on total bill.",
-          "image": "./images/test-7/frame_7_img_11.png"
+          "image": "./images/test-7/frame_7_img_9.png"
         },
         {
           "id": 12,
           "name": "Time Square Dine",
           "offer": "* 10% Savings on total bill",
-          "image": "./images/test-7/frame_7_img_12.png"
+          "image": "./images/test-7/frame_7_img_10.png"
         }
       ]
     },
@@ -810,31 +769,31 @@
           "id": 1,
           "name": "Agora",
           "offer": "5X Privilege Points only on Credit Cards",
-          "image": "./images/test-8/frame_8_img_1.png"
+          "image": "./images/test-9/grocery1.png"
         },
         {
           "id": 2,
           "name": "Daily Shopping",
           "offer": "5X Privilege Points only on Credit Cards",
-          "image": "./images/test-8/frame_8_img_2.png"
+          "image": "./images/test-9/grocery2.png"
         },
         {
           "id": 3,
           "name": "Meena Bazar",
           "offer": "5X Privilege Points only on Credit Cards",
-          "image": "./images/test-8/frame_8_img_3.png"
+          "image": "./images/test-9/grocery3.png"
         },
         {
           "id": 4,
           "name": "Shwapno",
           "offer": "5X Privilege Points only on Credit Cards",
-          "image": "./images/test-8/frame_8_img_4.png"
+          "image": "./images/test-9/grocery4.png"
         },
         {
           "id": 5,
           "name": "Unimart",
           "offer": "5X Privilege Points only on Credit Cards",
-          "image": "./images/test-8/frame_8_img_5.png"
+          "image": "./images/test-9/grocery5.png"
         }
       ]
     },
@@ -847,79 +806,79 @@
           "id": 1,
           "name": "Akhtar Furnishers Ltd",
           "offer": "Up to 12 Months",
-          "image": ""
+          "image": "./images/test-10/frame_10_img_1.png"
         },
         {
           "id": 2,
           "name": "Best Buy",
           "offer": "Up to 12 Months",
-          "image": ""
+          "image": "./images/test-10/frame_10_img_9.png"
         },
         {
           "id": 3,
           "name": "Brothers Furniture Limited",
           "offer": "Up to 12 Months",
-          "image": ""
+          "image": "./images/test-10/frame_10_img_10.png"
         },
         {
           "id": 4,
           "name": "Delta Furnishers Ltd",
           "offer": "Up to 12 Months",
-          "image": ""
+          "image": "./images/test-10/frame_10_img_11.png"
         },
         {
           "id": 5,
           "name": "Gramsico",
           "offer": "Up to 3 Months",
-          "image": ""
+          "image": "./images/test-10/frame_10_img_12.png"
         },
         {
           "id": 6,
           "name": "Hatil Complex Ltd.",
           "offer": "Up to 12 Months",
-          "image": ""
+          "image": "./images/test-10/frame_10_img_13.png"
         },
         {
           "id": 7,
           "name": "HI-Tech Furniture",
           "offer": "Up to 12 Months",
-          "image": ""
+          "image": "./images/test-10/frame_10_img_2.png"
         },
         {
           "id": 8,
           "name": "Hatim Furniture",
           "offer": "Up to 12 Months",
-          "image": ""
+          "image": "./images/test-10/frame_10_img_3.png"
         },
         {
           "id": 9,
           "name": "Nadia Furniture",
           "offer": "Up to 12 Months",
-          "image": ""
+          "image": "./images/test-10/frame_10_img_4.png"
         },
         {
           "id": 10,
           "name": "Navana Furniture",
           "offer": "Up to 12 Months",
-          "image": ""
+          "image": "./images/test-10/frame_10_img_5.png"
         },
         {
           "id": 11,
           "name": "OTOBI",
           "offer": "Up to 12 Months",
-          "image": ""
+          "image": "./images/test-10/frame_10_img_6.png"
         },
         {
           "id": 12,
           "name": "Porcelaina",
           "offer": "Up to 3 Months",
-          "image": ""
+          "image": "./images/test-10/frame_10_img_7.png"
         },
         {
           "id": 13,
           "name": "Regal Furniture",
           "offer": "Up to 12 Months",
-          "image": ""
+          "image": "./images/test-10/frame_10_img_8.png"
         }
       ]
     },
@@ -932,115 +891,115 @@
           "id": 1,
           "name": "AB Electronics",
           "offer": "Up to 9 Months",
-          "image": ""
+          "image": "./images/test-11/frame_11_img_1.png"
         },
         {
           "id": 2,
           "name": "Best Electronics",
           "offer": "Up to 12 Months",
-          "image": ""
+          "image": "./images/test-11/frame_11_img_16.png"
         },
         {
           "id": 3,
           "name": "Butterfly Marketing Limited",
           "offer": "Up to 12 Months",
-          "image": ""
+          "image": "./images/test-11/frame_11_img_2.png"
         },
         {
           "id": 4,
           "name": "Creative Marketing Company",
           "offer": "Up to 12 Months",
-          "image": ""
+          "image": "./images/test-11/frame_11_img_3.png"
         },
         {
           "id": 5,
           "name": "Electro Mart Limited",
           "offer": "Up to 12 Months",
-          "image": ""
+          "image": "./images/test-11/frame_11_img_4.png"
         },
         {
           "id": 6,
           "name": "Esquire Electronics Ltd",
           "offer": "Up to 12 Months",
-          "image": ""
+          "image": "./images/test-11/frame_11_img_5.png"
         },
         {
           "id": 7,
           "name": "Electra International",
           "offer": "Up to 12 Months",
-          "image": ""
+          "image": "./images/test-11/frame_11_img_6.png"
         },
         {
           "id": 8,
           "name": "Fair Electronics Ltd",
           "offer": "Up to 12 Months",
-          "image": ""
+          "image": "./images/test-11/frame_11_img_7.png"
         },
         {
           "id": 9,
           "name": "Haier Bangladesh Ltd.",
           "offer": "Up to 12 Months",
-          "image": ""
+          "image": "./images/test-11/frame_11_img_8.png"
         },
         {
           "id": 10,
           "name": "MK Etectronic ltd.",
           "offer": "Up to 12 Months",
-          "image": ""
+          "image": "./images/test-11/frame_11_img_9.png"
         },
         {
           "id": 11,
           "name": "Minister Hi-Tech Park Electronics Ltd.",
           "offer": "Up to 12 Months",
-          "image": ""
+          "image": "./images/test-11/frame_11_img_10.png"
         },
         {
           "id": 12,
           "name": "Rangs Electronics Ltd.",
           "offer": "Up to 12 Months",
-          "image": ""
+          "image": "./images/test-11/frame_11_img_17.png"
         },
         {
           "id": 13,
           "name": "Rangs Industries Ltd.",
           "offer": "Up to 12 Months",
-          "image": ""
+          "image": "./images/test-11/frame_11_img_11.png"
         },
         {
           "id": 14,
           "name": "Singer Bangladesh Limited",
           "offer": "Up to 12 Months",
-          "image": ""
+          "image": "./images/test-11/frame_11_img_18.png"
         },
         {
           "id": 15,
           "name": "Shameem & Company",
           "offer": "Up to 12 Months",
-          "image": ""
+          "image": "./images/test-11/frame_11_img_12.png"
         },
         {
           "id": 16,
           "name": "Transcom Electronics Limited",
           "offer": "Up to 12 Months",
-          "image": ""
+          "image": "./images/test-11/frame_11_img_19.png"
         },
         {
           "id": 17,
           "name": "Unilever Bangladesh Ltd",
           "offer": "Up to 12 Months",
-          "image": ""
+          "image": "./images/test-11/frame_11_img_13.png"
         },
         {
           "id": 18,
           "name": "Vision Emporium",
           "offer": "Up to 12 Months",
-          "image": ""
+          "image": "./images/test-11/frame_11_img_14.png"
         },
         {
           "id": 19,
           "name": "Walton Plaza",
           "offer": "Up to 12 Months",
-          "image": ""
+          "image": "./images/test-11/frame_11_img_15.png"
         }
       ]
     },
@@ -1053,211 +1012,211 @@
           "id": 1,
           "name": "Apsara by Antara",
           "offer": "15.00%",
-          "image": ""
+          "image": "./images/test-12/frame_12_img_1.png"
         },
         {
           "id": 2,
           "name": "Banglex Group",
           "offer": "15.00%",
-          "image": ""
+          "image": "./images/test-12/frame_12_img_29.png"
         },
         {
           "id": 3,
           "name": "Book House",
           "offer": "5.00%",
-          "image": ""
+          "image": "./images/test-12/frame_12_img_2.png"
         },
         {
           "id": 4,
           "name": "CHOCOLATESHOPBD.COM",
           "offer": "10.00%",
-          "image": ""
+          "image": "./images/test-12/frame_12_img_3.png"
         },
         {
           "id": 5,
           "name": "Diamu",
           "offer": "10.00%",
-          "image": ""
+          "image": "./images/test-12/frame_12_img_4.png"
         },
         {
           "id": 6,
           "name": "FurnitureBari.com",
           "offer": "10.00%",
-          "image": ""
+          "image": "./images/test-12/frame_12_img_5.png"
         },
         {
           "id": 7,
           "name": "Gift all bd",
           "offer": "10.00%",
-          "image": ""
+          "image": "./images/test-12/frame_12_img_6.png"
         },
         {
           "id": 8,
           "name": "Glassesbd",
           "offer": "10.00%",
-          "image": ""
+          "image": "./images/test-12/frame_12_img_7.png"
         },
         {
           "id": 9,
           "name": "Hamkobazar",
           "offer": "10.00%",
-          "image": ""
+          "image": "./images/test-12/frame_12_img_8.png"
         },
         {
           "id": 10,
           "name": "Hatim Furniture",
           "offer": "10.00%",
-          "image": ""
+          "image": "./images/test-12/frame_12_img_9.png"
         },
         {
           "id": 11,
           "name": "Instamart Bangladesh Ltd",
           "offer": "15.00%",
-          "image": ""
+          "image": "./images/test-12/frame_12_img_10.png"
         },
         {
           "id": 12,
           "name": "Klothen",
           "offer": "10.00%",
-          "image": ""
+          "image": "./images/test-12/frame_12_img_33.png"
         },
         {
           "id": 13,
           "name": "Grihosozza",
           "offer": "20.00%",
-          "image": ""
+          "image": "./images/test-12/frame_12_img_11.png"
         },
         {
           "id": 14,
           "name": "Masyirah BD Ltd.",
           "offer": "15.00%",
-          "image": ""
+          "image": "./images/test-12/frame_12_img_34.png"
         },
         {
           "id": 15,
           "name": "Mehendi By Mimi",
           "offer": "10.00%",
-          "image": ""
+          "image": "./images/test-12/frame_12_img_12.png"
         },
         {
           "id": 16,
           "name": "Minion Gadgets BD",
           "offer": "12.00%",
-          "image": ""
+          "image": "./images/test-12/frame_12_img_35.png"
         },
         {
           "id": 17,
           "name": "Mojumder Telecom",
           "offer": "5.00%",
-          "image": ""
+          "image": "./images/test-12/frame_12_img_13.png"
         },
         {
           "id": 18,
           "name": "Nawabi Shoes BD",
           "offer": "10.00%",
-          "image": ""
+          "image": "./images/test-12/frame_12_img_14.png"
         },
         {
           "id": 19,
           "name": "KODOMO",
           "offer": "10.00%",
-          "image": ""
+          "image": "./images/test-12/frame_12_img_15.png"
         },
         {
           "id": 20,
           "name": "Perfume Shop Bangladesh",
           "offer": "12.00%",
-          "image": ""
+          "image": "./images/test-12/frame_12_img_16.png"
         },
         {
           "id": 21,
           "name": "Picky",
           "offer": "10.00%",
-          "image": ""
+          "image": "./images/test-12/frame_12_img_17.png"
         },
         {
           "id": 22,
           "name": "Pristine",
           "offer": "10.00%",
-          "image": ""
+          "image": "./images/test-12/frame_12_img_18.png"
         },
         {
           "id": 23,
           "name": "Ranabi",
           "offer": "10.00%",
-          "image": ""
+          "image": "./images/test-12/frame_12_img_19.png"
         },
         {
           "id": 24,
           "name": "RAVEN",
           "offer": "15.00%",
-          "image": ""
+          "image": "./images/test-12/frame_12_img_20.png"
         },
         {
           "id": 25,
           "name": "Ribana",
           "offer": "15.00%",
-          "image": ""
+          "image": "./images/test-12/frame_12_img_21.png"
         },
         {
           "id": 26,
           "name": "REDSWISS",
           "offer": "15.00%",
-          "image": ""
+          "image": "./images/test-12/frame_12_img_22.png"
         },
         {
           "id": 27,
           "name": "Shopping Corner",
           "offer": "20.00%",
-          "image": ""
+          "image": "./images/test-12/frame_12_img_23.png"
         },
         {
           "id": 28,
           "name": "SKINCARE SHOP",
           "offer": "5.00%",
-          "image": ""
+          "image": "./images/test-12/frame_12_img_24.png"
         },
         {
           "id": 29,
           "name": "SKYLAND COMPUTER BD",
           "offer": "10.00%",
-          "image": ""
+          "image": "./images/test-12/frame_12_img_25.png"
         },
         {
           "id": 30,
           "name": "Sneaker Pimp",
           "offer": "10.00%",
-          "image": ""
+          "image": "./images/test-12/frame_12_img_26.png"
         },
         {
           "id": 31,
           "name": "The Punch Company Limited",
           "offer": "10.00%",
-          "image": ""
+          "image": "./images/test-12/frame_12_img_28.png"
         },
         {
           "id": 32,
           "name": "Vibrant",
           "offer": "10.00%",
-          "image": ""
+          "image": "./images/test-12/frame_12_img_27.png"
         },
         {
           "id": 33,
           "name": "Utkristo",
           "offer": "12.00%",
-          "image": ""
+          "image": "./images/test-12/frame_12_img_30.png"
         },
         {
           "id": 34,
           "name": "Vibe Gaming Limited",
           "offer": "10.00%",
-          "image": ""
+          "image": "./images/test-12/frame_12_img_31.png"
         },
         {
           "id": 35,
           "name": "WhiteShell Limited",
           "offer": "10.00%",
-          "image": ""
+          "image": "./images/test-12/frame_12_img_32.png"
         }
       ]
     }
