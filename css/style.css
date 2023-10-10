@@ -113,40 +113,6 @@ a {
   background-color:#BB1319;
 }
 
-@media screen and (max-width: 768px) {
-  .cat-text span {
-    font-size: 14px;
-    width: 120px;
-  }
-  .hero-image {
-    max-height: 500px;
-  }
-
-  .close {
-    font-size: 24px;
-    padding: 5px;
-  }
-
-
-}
-
-@media screen and (max-width: 480px) {
-  .cat-text span {
-    font-size: 12px;
-    width: 80px;
-  }
-
-  .close {
-    font-size: 24px;
-    padding: 5px;
-  }
-
-  .hero-image {
-    max-height: 450px;
-    transform: scale(1.5);
-    
-  }
-}
 /* Styles for the brand container */
 .brand-card {
   width: 205px;
@@ -160,6 +126,9 @@ a {
   padding: 0;
   border-radius: 6px;
   overflow: hidden;
+  transition: opacity 0.5s ease-in-out; /* You can adjust the duration and timing function as needed */
+   /* Start with opacity 0 to make it fade in */
+   opacity: 0;
 }
 
 
@@ -284,7 +253,6 @@ a {
 
   .hero-image{
     max-height: 600px;
-    transform: scale(1.4);
   }
 
   
@@ -305,7 +273,42 @@ a {
 
   .hero-image{
     max-height: 600px;
-    transform: scale(1.5);
   }
   
+}
+
+
+@media screen and (max-width: 768px) {
+  .cat-text span {
+    font-size: 14px;
+    width: 120px;
+  }
+  .hero-image {
+    max-height: 500px;
+  }
+
+  .close {
+    font-size: 24px;
+    padding: 5px;
+  }
+
+
+}
+
+@media screen and (max-width: 480px) {
+  .cat-text span {
+    font-size: 12px;
+    width: 80px;
+  }
+
+  .close {
+    font-size: 24px;
+    padding: 5px;
+  }
+
+  .hero-image {
+    max-height: 450px;
+    transform: scale(1.5);
+    
+  }
 }

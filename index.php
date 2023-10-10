@@ -33,7 +33,7 @@ if (empty($categories)) {
         </span>
         <div>
             <div class="hero-image" >
-                <img src="./images/banner/banner.png" alt="" class="img-fluid" />
+                <img src="./images/banner/banner2.png" alt="" class="img-fluid" />
             </div>
             <div>
                 <div class="cat-container" id="catContainer">
@@ -89,6 +89,10 @@ if (empty($categories)) {
 
     //show category wise brands
     function showBrands(cat_id) {
+        //scroll to brandContainer class on click
+        document.querySelector(".brand-container").scrollIntoView({
+            behavior: "smooth",
+        });
         const brandContainer = document.getElementById("brandContainer");
         brandContainer.innerHTML = "";
         const selected_cat = categories.find((car) => car.id == (cat_id || categories[0].id));
@@ -112,7 +116,6 @@ if (empty($categories)) {
             </div>
           `;
             brandContainer.appendChild(brandCard);
-        });
     }
 
     function setActiveClass(docId){
