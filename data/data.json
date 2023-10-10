@@ -415,19 +415,19 @@
         {
           "id": 1,
           "name": "US Bangla",
-          "offer": "* 10% Savings on base fare on all domestic & international flights for Debit & Credit Cards&amp;* 5% Additional Cashback on Credit Cards&amp;* 3X Privilege Points on Credit Cards&amp;* 0% SmartPay (EMI) for up to 6 months on Credit Cards",
+          "offer": "EMI Tenor: Up to 6 Months (Only Credit Cards) 5% Additional Cashback (Only Credit Cards) 10% Savings (Domestic Flights) 3X Privilege Points (Only Credit Cards) Only POS transaction Validity: 10 Oct to 24 Oct 2023 Eligibilty: Debit & Credit Cards",
           "image": "./images/test-5/frame_5_img_1.png"
         },
         {
           "id": 2,
           "name": "Novoair",
-          "offer": "* 10% Savings on base fare on all domestic flights for Debit & Credit Cards&amp;* 5% Additional Cashback on Credit Cards&amp;* 3X Privilege Points on Credit Cards&amp;* 0% SmartPay (EMI) for up to 6 montha on Credit Cards",
+          "offer": "EMI Tenor: Up to 6 Months (Only Credit Cards) 5% Additional Cashback (Only Credit Cards) 10% Savings (Domestic Flights) 3X Privilege Points (Only Credit Cards) Only POS transaction Validity: 10 Oct to 24 Oct 2023 Eligibilty: Debit & Credit Cards",
           "image": "./images/test-5/frame_5_img_2.png"
         },
         {
           "id": 3,
           "name": "Air Astra",
-          "offer": "* 10% Savings on base fare on all domestic flights for Debit & Credit Cards&amp;* 3X Privilege Points on Credit Cards&amp;* 0% SmartPay (EMI) for up to 6 montha on Credit Cards",
+          "offer": "EMI Tenor: Up to 6 Months (Only Credit Cards) 10% Savings (Domestic Flights) 3X Privilege Points (Only Credit Cards) Only POS transaction Validity: 10 Oct to 24 Oct 2023 Eligibilty: Debit & Credit Cards",
           "image": "./images/test-5/frame_5_img_3.png"
         }
       ]
@@ -742,31 +742,31 @@
         {
           "id": 1,
           "name": "Agora",
-          "offer": "5X Privilege Points only on Credit Cards",
+          "offer": "5X Privilege Points Applicable for POS & Online transactions Validity: 10 Oct to 24 Oct 2023 Eligibilty: Credit Cards",
           "image": "./images/test-9/grocery1.png"
         },
         {
           "id": 2,
           "name": "Daily Shopping",
-          "offer": "5X Privilege Points only on Credit Cards",
+          "offer": "5X Privilege Points Applicable for POS & Online transactions Validity: 10 Oct to 24 Oct 2023 Eligibilty: Credit Cards",
           "image": "./images/test-9/grocery2.png"
         },
         {
           "id": 3,
           "name": "Meena Bazar",
-          "offer": "5X Privilege Points only on Credit Cards",
+          "offer": "5X Privilege Points Applicable for POS & Online transactions Validity: 10 Oct to 24 Oct 2023 Eligibilty: Credit Cards",
           "image": "./images/test-9/grocery3.png"
         },
         {
           "id": 4,
           "name": "Shwapno",
-          "offer": "5X Privilege Points only on Credit Cards",
+          "offer": "5X Privilege Points Applicable for POS & Online transactions Validity: 10 Oct to 24 Oct 2023 Eligibilty: Credit Cards",
           "image": "./images/test-9/grocery4.png"
         },
         {
           "id": 5,
           "name": "Unimart",
-          "offer": "5X Privilege Points only on Credit Cards",
+          "offer": "5X Privilege Points Applicable for POS & Online transactions Validity: 10 Oct to 24 Oct 2023 Eligibilty: Credit Cards",
           "image": "./images/test-9/grocery5.png"
         }
       ]
@@ -779,79 +779,79 @@
         {
           "id": 1,
           "name": "Akhtar Furnishers Ltd",
-          "offer": "Up to 12 Months",
+          "offer": "EMI Tenor: Up to 12 Months Only POS transaction Validity: 10 Oct to 24 Oct 2023",
           "image": "./images/test-10/frame_10_img_1.png"
         },
         {
           "id": 2,
           "name": "Best Buy",
-          "offer": "Up to 12 Months",
+          "offer": "EMI Tenor: Up to 12 Months Only POS transaction Validity: 10 Oct to 24 Oct 2023",
           "image": "./images/test-10/frame_10_img_9.png"
         },
         {
           "id": 3,
           "name": "Brothers Furniture Limited",
-          "offer": "Up to 12 Months",
+          "offer": "EMI Tenor: Up to 12 Months Only POS transaction Validity: 10 Oct to 24 Oct 2023",
           "image": "./images/test-10/frame_10_img_10.png"
         },
         {
           "id": 4,
           "name": "Delta Furnishers Ltd",
-          "offer": "Up to 12 Months",
+          "offer": "EMI Tenor: Up to 12 Months Only POS transaction Validity: 10 Oct to 24 Oct 2023",
           "image": "./images/test-10/frame_10_img_11.png"
         },
         {
           "id": 5,
           "name": "Gramsico",
-          "offer": "Up to 3 Months",
+          "offer": "EMI Tenor: Up to 12 Months Only POS transaction Validity: 10 Oct to 24 Oct 2023",
           "image": "./images/test-10/frame_10_img_12.png"
         },
         {
           "id": 6,
           "name": "Hatil Complex Ltd.",
-          "offer": "Up to 12 Months",
+          "offer": "EMI Tenor: Up to 12 Months Only POS transaction Validity: 10 Oct to 24 Oct 2023",
           "image": "./images/test-10/frame_10_img_13.png"
         },
         {
           "id": 7,
           "name": "HI-Tech Furniture",
-          "offer": "Up to 12 Months",
+          "offer": "EMI Tenor: Up to 12 Months Only POS transaction Validity: 10 Oct to 24 Oct 2023",
           "image": "./images/test-10/frame_10_img_2.png"
         },
         {
           "id": 8,
           "name": "Hatim Furniture",
-          "offer": "Up to 12 Months",
+          "offer": "EMI Tenor: Up to 12 Months Only POS transaction Validity: 10 Oct to 24 Oct 2023",
           "image": "./images/test-10/frame_10_img_3.png"
         },
         {
           "id": 9,
           "name": "Nadia Furniture",
-          "offer": "Up to 12 Months",
+          "offer": "EMI Tenor: Up to 12 Months Only POS transaction Validity: 10 Oct to 24 Oct 2023",
           "image": "./images/test-10/frame_10_img_4.png"
         },
         {
           "id": 10,
           "name": "Navana Furniture",
-          "offer": "Up to 12 Months",
+          "offer": "EMI Tenor: Up to 12 Months Only POS transaction Validity: 10 Oct to 24 Oct 2023",
           "image": "./images/test-10/frame_10_img_5.png"
         },
         {
           "id": 11,
           "name": "OTOBI",
-          "offer": "Up to 12 Months",
+          "offer": "EMI Tenor: Up to 12 Months Only POS transaction Validity: 10 Oct to 24 Oct 2023",
           "image": "./images/test-10/frame_10_img_6.png"
         },
         {
           "id": 12,
           "name": "Porcelaina",
-          "offer": "Up to 3 Months",
+          "offer": "EMI Tenor: Up to 12 Months Only POS transaction Validity: 10 Oct to 24 Oct 2023",
           "image": "./images/test-10/frame_10_img_7.png"
         },
         {
           "id": 13,
           "name": "Regal Furniture",
-          "offer": "Up to 12 Months",
+          "offer": "EMI Tenor: Up to 12 Months Only POS transaction Validity: 10 Oct to 24 Oct 2023",
           "image": "./images/test-10/frame_10_img_8.png"
         }
       ]
