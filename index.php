@@ -48,6 +48,8 @@ if (empty($categories)) {
                     }
                     ?>
                 </div>
+                <div id="table-container" class="center-table">
+                </div>
                 <div class="brand-container" id="brandContainer">
                 </div>
             </div>
@@ -89,7 +91,8 @@ if (empty($categories)) {
 
     //show category wise brands
     function showBrands(cat_id) {
-        //scroll to brand container
+        console.log("cat id ", cat_id);
+        //scroll to brand container 
         document.querySelector(".brand-container").scrollIntoView({
             behavior: "smooth",
         });
@@ -97,6 +100,13 @@ if (empty($categories)) {
         brandContainer.innerHTML = "";
         const selected_cat = categories.find((car) => car.id == (cat_id || categories[0].id));
         setActiveClass("cat" + selected_cat.id)
+        if(selected_cat?.id==14) {
+            const tableContainer = document.getElementById("table-container");
+            tableContainer.innerHTML = generateTable();
+        }else{
+            const tableContainer = document.getElementById("table-container");
+            tableContainer.innerHTML = "";
+        }
         const brands = selected_cat.brands;
         brands.forEach((brand) => {
             
@@ -104,6 +114,8 @@ if (empty($categories)) {
             
             brandCard.classList.add("brand-card");
             if(selected_cat.id==5 || selected_cat.id==6 ) brandCard.style.minHeight = "365px";
+            if(selected_cat.id==13 ) brandCard.style.minHeight = "325px";
+            if(selected_cat.id==14 || selected_cat.id==12 ) brandCard.style.minHeight = "300px";
             brandCard.innerHTML = `
             
               <img src="${brand.image}" alt="" />
@@ -138,6 +150,50 @@ if (empty($categories)) {
         }
 
     }
+
+    function generateTable() {
+            const table = `
+                <table class="table table-bordered">
+                <thead>
+                    <tr>
+                            <th>EMI Amount Slab (BDT)</th>
+                            <th>Cashback/EMI (BDT)</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td>10,000 - 20,000</td>
+                            <td>700</td>
+                        </tr>
+                        <tr>
+                            <td>20,001 - 40,000</td>
+                            <td>1,500</td>
+                        </tr>
+                        <tr>
+                            <td>40,001 - 60,000</td>
+                            <td>2,500</td>
+                        </tr>
+                        <tr>
+                            <td>60,001 - 80,000</td>
+                            <td>4,000</td>
+                        </tr>
+                        <tr>
+                            <td>80,001 - 100,000</td>
+                            <td>5,000</td>
+                        </tr>
+                        <tr>
+                            <td>More than 100,000</td>
+                            <td>6,000</td>
+                        </tr>
+                    </tbody>
+                </table>
+            `;
+            // Insert the generated table into the table-container
+            return table;
+        }
+
+        // Call the function to generate the table
+        generateTable();
 
     window.addEventListener('load', function () {
         showBrands();

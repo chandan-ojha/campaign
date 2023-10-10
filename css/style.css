@@ -3,6 +3,11 @@ body{
   font-family: 'Poppins', sans-serif;
 }
 
+.center-table {
+  margin: 20px auto;
+  width: 70%;
+}
+
 /* Styles for the modal */
 a {
   text-decoration: none;

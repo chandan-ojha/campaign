@@ -1197,171 +1197,171 @@
     {
       "id": 12,
       "name": "Cashback (Lifestyle)",
-      "image": "",
+      "image": "./images/cat/cat_1.png",
       "brands": [
         {
           "id": 1,
           "name": "Aarong",
           "offer": "20% Cashback Min. Transaction: BDT 2,000 (POS & Online) Cashback Limit: Per Transaction: BDT 500 Total in Campaign: BDT 1,000 Validity: Till 24 Oct 2023 Only for Credit Cards",
-          "image": ""
+          "image": "./images/test-1/frame_1_img_1.png"
         },
         {
           "id": 2,
           "name": "Apex",
           "offer": "20% Cashback Min. Transaction: BDT 2,000 (POS & Online) Cashback Limit: Per Transaction: BDT 500 Total in Campaign: BDT 1,000 Validity: Till 24 Oct 2023Only for Credit Cards",
-          "image": ""
+          "image": "./images/test-1/frame_1_img_29.png"
         },
         {
           "id": 3,
           "name": "Le Reve",
           "offer": "20% Cashback Min. Transaction: BDT 2,000 (POS & Online) Cashback Limit: Per Transaction: BDT 500 Total in Campaign: BDT 1,000 Validity: 24 Oct 2023 Only for Credit Cards",
-          "image": ""
+          "image": "./images/test-x/lereve.png"
         },
         {
           "id": 4,
           "name": "Sailor",
           "offer": "20% Cashback Min. Transaction: BDT 2,000 (POS & Online) Cashback Limit: Per Transaction: BDT 500 Total in Campaign: BDT 1,000 Validity: 24 Oct 2023 Only for Credit Cards",
-          "image": ""
+          "image": "./images/test-1/frame_1_img_21.png"
         },
         {
           "id": 5,
           "name": "Yellow",
           "offer": "20% Cashback Min. Transaction: BDT 2,000 (POS & Online) Cashback Limit: Per Transaction: BDT 500 Total in Campaign: BDT 1,000 Validity: Till 24 Oct 2023 Only for Credit Cards",
-          "image": ""
+          "image": "./images/test-1/frame_1_img_15.png"
         }
       ]
     },
     {
       "id": 13,
-      "name": "Cashback (Coffeee)",
-      "image": "",
+      "name": "Cashback (Coffee)",
+      "image": "./images/cat/cat_3.png",
       "brands": [
         {
           "id": 1,
           "name": "North End Coffee Roaters",
           "offer": "25% Cashback Min. Transaction: BDT 800 (POS) Cashback Limit: Per Transaction: BDT 300 Total in Campaign: BDT 600 Validity: 19 Oct to 24 Oct 2023 Only for Credit Cards",
-          "image": ""
+          "image": "./images/test-x/northend.png"
         },
         {
           "id": 2,
           "name": "Gloria Jeans Coffee Bangladesh",
           "offer": "25% Cashback Min. Transaction: BDT 800 (POS) Cashback Limit: Per Transaction: BDT 300 Total in Campaign: BDT 600 Validity: 19 Oct to 24 Oct 2023 Only for Credit Cards",
-          "image": ""
+          "image": "./images/test-x/gloriajeans.png"
         }
       ]
     },
     {
       "id": 14,
       "name": "Cashback (Electronics)",
-      "image": "",
+      "image": "./images/cat/cat_10.png",
       "brands": [
         {
           "id": 1,
           "name": "AB Electronics",
           "offer": "EMI Tenor: Up to 9 Months Only POS transaction Validity: 10 Oct to 19 Nov 2023",
-          "image": ""
+          "image": "./images/test-11/frame_11_img_1.png"
         },
         {
           "id": 2,
           "name": "Best Electronics",
           "offer": "EMI Tenor: Up to 12 Months Only POS transaction Validity: 10 Oct to 19 Nov 2023",
-          "image": ""
+          "image": "./images/test-11/frame_11_img_16.png"
         },
         {
           "id": 3,
           "name": "Butterfly Marketing Limited",
           "offer": "EMI Tenor: Up to 12 Months Only POS transaction Validity: 10 Oct to 19 Nov 2023",
-          "image": ""
+          "image": "./images/test-11/frame_11_img_2.png"
         },
         {
           "id": 4,
           "name": "Creative Marketing Company",
           "offer": "EMI Tenor: Up to 12 Months Only POS transaction Validity: 10 Oct to 19 Nov 2023",
-          "image": ""
+          "image": "./images/test-11/frame_11_img_3.png"
         },
         {
           "id": 5,
           "name": "Electro Mart Limited",
           "offer": "EMI Tenor: Up to 12 Months Only POS transaction Validity: 10 Oct to 19 Nov 2023",
-          "image": ""
+          "image": "./images/test-11/frame_11_img_4.png"
         },
         {
           "id": 6,
           "name": "Esquire Electronics Ltd",
           "offer": "EMI Tenor: Up to 12 Months Only POS transaction Validity: 10 Oct to 19 Nov 2023",
-          "image": ""
+          "image": "./images/test-11/frame_11_img_5.png"
         },
         {
           "id": 7,
           "name": "Electra International",
           "offer": "EMI Tenor: Up to 12 Months Only POS transaction Validity: 10 Oct to 19 Nov 2023",
-          "image": ""
+          "image": "./images/test-11/frame_11_img_6.png"
         },
         {
           "id": 8,
-          "name": "Fair Electronics Ltd ",
+          "name": "Fair Electronics Ltd",
           "offer": "EMI Tenor: Up to 12 Months Only POS transaction Validity: 10 Oct to 19 Nov 2023",
-          "image": ""
+          "image": "./images/test-11/frame_11_img_7.png"
         },
         {
           "id": 9,
           "name": "Haier Bangladesh Ltd.",
           "offer": "EMI Tenor: Up to 12 Months Only POS transaction Validity: 10 Oct to 19 Nov 2023",
-          "image": ""
+          "image": "./images/test-11/frame_11_img_8.png"
         },
         {
           "id": 10,
           "name": "MK Etectronic ltd.",
           "offer": "EMI Tenor: Up to 12 Months Only POS transaction Validity: 10 Oct to 19 Nov 2023",
-          "image": ""
+          "image": "./images/test-11/frame_11_img_9.png"
         },
         {
           "id": 11,
           "name": "Minister Hi-Tech Park Electronics Ltd.",
           "offer": "EMI Tenor: Up to 12 Months Only POS transaction Validity: 10 Oct to 19 Nov 2023",
-          "image": ""
+          "image": "./images/test-11/frame_11_img_10.png"
         },
         {
           "id": 12,
           "name": "Rangs Electronics Ltd.",
           "offer": "EMI Tenor: Up to 12 Months Only POS transaction Validity: 10 Oct to 19 Nov 2023",
-          "image": ""
+          "image": "./images/test-11/frame_11_img_17.png"
         },
         {
           "id": 13,
           "name": "Singer Bangladesh Limited",
           "offer": "EMI Tenor: Up to 12 Months Only POS transaction Validity: 10 Oct to 19 Nov 2023",
-          "image": ""
+          "image": "./images/test-11/frame_11_img_18.png"
         },
         {
           "id": 14,
           "name": "Shameem & Company",
           "offer": "EMI Tenor: Up to 12 Months Only POS transaction Validity: 10 Oct to 19 Nov 2023",
-          "image": ""
+          "image": "./images/test-11/frame_11_img_12.png"
         },
         {
           "id": 15,
           "name": "Transcom Electronics Limited",
           "offer": "EMI Tenor: Up to 12 Months Only POS transaction Validity: 10 Oct to 19 Nov 2023",
-          "image": ""
+          "image": "./images/test-11/frame_11_img_19.png"
         },
         {
           "id": 16,
           "name": "Unilever Bangladesh Ltd",
           "offer": "EMI Tenor: Up to 12 Months Only POS transaction Validity: 10 Oct to 19 Nov 2023",
-          "image": ""
+          "image": "./images/test-11/frame_11_img_13.png"
         },
         {
           "id": 17,
           "name": "Vision Emporium",
           "offer": "EMI Tenor: Up to 12 Months Only POS transaction Validity: 10 Oct to 19 Nov 2023",
-          "image": ""
+          "image": "./images/test-11/frame_11_img_14.png"
         },
         {
           "id": 18,
           "name": "Walton Plaza",
           "offer": "EMI Tenor: Up to 12 Months Only POS transaction Validity: 10 Oct to 19 Nov 2023",
-          "image": ""
+          "image": "./images/test-11/frame_11_img_15.png"
         }
       ]
     }
