@@ -116,6 +116,7 @@ if (empty($categories)) {
             </div>
           `;
             brandContainer.appendChild(brandCard);
+        });
     }
 
     function setActiveClass(docId){
