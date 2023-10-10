@@ -89,7 +89,7 @@ if (empty($categories)) {
 
     //show category wise brands
     function showBrands(cat_id) {
-        //scroll to brandContainer class on click
+        //scroll to brand container
         document.querySelector(".brand-container").scrollIntoView({
             behavior: "smooth",
         });
