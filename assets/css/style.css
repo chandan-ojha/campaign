@@ -1,6 +1,6 @@
-@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;300;400;500&display=swap');
-body{
-  font-family: 'Poppins', sans-serif;
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@100;300;400;500&display=swap");
+body {
+  font-family: "Poppins", sans-serif;
 }
 
 /* Styles for the modal */
@@ -109,8 +109,8 @@ a {
   white-space: nowrap;
 }
 
-.cat-card  span.active{
-  background-color:#BB1319;
+.cat-card span.active {
+  background-color: #bb1319;
 }
 
 @media screen and (max-width: 768px) {
@@ -126,8 +126,6 @@ a {
     font-size: 24px;
     padding: 5px;
   }
-
-
 }
 
 @media screen and (max-width: 480px) {
@@ -144,7 +142,6 @@ a {
   .hero-image {
     max-height: 450px;
     transform: scale(1.5);
-    
   }
 }
 /* Styles for the brand container */
@@ -162,7 +159,6 @@ a {
   overflow: hidden;
 }
 
-
 .brand-container {
   margin: 0 auto;
   display: flex;
@@ -176,7 +172,7 @@ a {
 
 .brand-card {
   width: 205px;
-  border: 1px solid #0173B8;
+  border: 1px solid #0173b8;
   border-radius: 6px;
   min-height: 265px;
   height: auto;
@@ -191,7 +187,7 @@ a {
   padding: 0;
 }
 
-.card-body{
+.card-body {
   position: absolute;
   top: 152px;
   width: 100%;
@@ -207,20 +203,20 @@ a {
   font-size: 12px;
 }
 
-.title-back h5{
-    font-size: 15px;
-    margin: 0;
-    font-weight: 600;
-    line-height: 24px;
-    color: white;
-    text-align: center;
+.title-back h5 {
+  font-size: 15px;
+  margin: 0;
+  font-weight: 600;
+  line-height: 24px;
+  color: white;
+  text-align: center;
 }
 
-.title-back{
-    background-color: #0173B8;
-    padding: 5px;
-    width: 100%;
-    margin-bottom: 5px;
+.title-back {
+  background-color: #0173b8;
+  padding: 5px;
+  width: 100%;
+  margin-bottom: 5px;
 }
 
 /* Media queries for responsiveness */
@@ -249,7 +245,7 @@ a {
   .brand-card {
     width: 280px;
   }
-  
+
   .brand-card-airline.img-holder,
   .brand-card.img-holder {
     object-fit: unset;
@@ -261,12 +257,11 @@ a {
     border-radius: 6px;
   }
 
-  .hero-image{
+  .hero-image {
     max-height: 600px;
     transform: scale(1.2);
     margin-bottom: 20px;
   }
-
 }
 
 @media only screen and (max-width: 768px) {
@@ -278,16 +273,15 @@ a {
     grid-template-columns: repeat(auto-fit, minmax(160px, 1fr));
   }
 
-  .brand-card-airline, .brand-card {
+  .brand-card-airline,
+  .brand-card {
     width: 280px;
   }
 
-  .hero-image{
+  .hero-image {
     max-height: 600px;
     transform: scale(1.4);
   }
-
-  
 }
 
 @media only screen and (max-width: 576px) {
@@ -299,13 +293,13 @@ a {
     grid-template-columns: repeat(auto-fit, minmax(140px, 1fr));
   }
 
-  .brand-card-airline,  .brand-card  {
+  .brand-card-airline,
+  .brand-card {
     width: 280px;
   }
 
-  .hero-image{
+  .hero-image {
     max-height: 600px;
     transform: scale(1.5);
   }
-  
 }
