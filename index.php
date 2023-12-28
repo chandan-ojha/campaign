@@ -35,7 +35,7 @@ if (empty($categories)) {
             </span>
             <div>
                 <div class="hero-image">
-                    <img src="./assets/images/banner/banner.png" alt="" class="img-fluid" />
+                    <img src="./assets/images/banner/banner_1.png" alt="" class="img-fluid" />
                 </div>
                 <div>
                     <div class="cat-container" id="catContainer">
